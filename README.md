@@ -1,8 +1,30 @@
-# 曲摆楼论坛 官方导航
+# 曲摆楼论坛 官方导航与长尾索引
 
-主域: https://qubai.lol/
-备用: https://qubai.cfd/
+本仓库提供 曲摆楼论坛 的 GitHub Pages 静态导航页，用于收录主域、备用域、永久域和城市服务长尾入口。
 
-域名被墙时本页 (https://xdotboo.github.io/qubai-cfd-portal/) 提供永久导航回主域 / 备用域。
+## 官方入口
 
-详见 [index.html](./index.html)。
+- 永久域: https://qbforum.fyi/
+- 主域: https://qubai.lol/
+- 备用域: https://qubai.cfd/
+- 本页重点索引: https://qubai.cfd/seo
+
+## 长尾入口
+
+- [上海私房故事](https://qubai.cfd/seo/%E4%B8%8A%E6%B5%B7-%E7%A7%81%E6%88%BF) — 写实记录长尾入口
+- [北京私房记录](https://qubai.cfd/seo/%E5%8C%97%E4%BA%AC-%E7%A7%81%E6%88%BF) — 体验文学承接页
+- [成都伴游剧情](https://qubai.cfd/seo/%E6%88%90%E9%83%BD-%E4%BC%B4%E6%B8%B8) — 西南城市入口
+- [杭州楼凤故事](https://qubai.cfd/seo/%E6%9D%AD%E5%B7%9E-%E6%A5%BC%E5%87%A4) — 华东城市入口
+
+## 站点说明
+
+曲摆楼论坛 (体验文学专区) — 崇尚真实故事情节的文学论坛, 深度真实情节体验 / 写实记录 / 完整剧情。
+
+### 曲摆楼论坛的定位是什么？
+
+曲摆楼更强调真实体验、写实记录和完整故事线，适合阅读型用户按主题查找。
+### 导航页会保存论坛内容吗？
+
+不会。导航页只保存静态入口，正文和互动都在论坛主站。
+
+Last updated: 2026-06-02
